@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ParkIQ – Smart Parking Slot Booking System
 
 A full-featured smart parking web app built with React + Vite.
@@ -66,3 +67,7 @@ smart-parking/
 - Vite 5
 - Inline CSS (no external UI library needed)
 - Google Fonts (Syne, DM Sans, DM Mono)
+=======
+# ParkIQ
+ParkIQ is a full-stack MERN smart parking app where users can browse parking locations, check real-time slot availability, and reserve spots in advance. It features JWT authentication, unique booking ID generation, a personal dashboard, and a dedicated admin panel to manage locations, slots, users, and bookings seamlessly.
+>>>>>>> b56ef48222e46b98c0aaddbafa5a850f68f1e4cb
