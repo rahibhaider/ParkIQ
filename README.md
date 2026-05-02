@@ -1,4 +1,4 @@
-# ParkIQ – Smart Parking Management System
+# ParkIQ – Smart Parking Slot Booking System
 
 ParkIQ is a modern full-stack MERN application designed to simplify urban parking management. It allows users to discover parking locations, check real-time slot availability, and reserve parking spaces in advance. The platform also provides an admin dashboard to efficiently manage locations, users, bookings, and parking slots.
 
