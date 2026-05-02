@@ -3,6 +3,8 @@
 ParkIQ is a modern full-stack MERN application designed to simplify urban parking management. It allows users to discover parking locations, check real-time slot availability, and reserve parking spaces in advance. The platform also provides an admin dashboard to efficiently manage locations, users, bookings, and parking slots.
 
 ---
+<img width="1916" height="902" alt="Screenshot 2026-05-03 015035" src="https://github.com/user-attachments/assets/3f02ee7f-b52a-4b82-b44e-0d3c50fb2674" />
+
 
 ## 🚀 Features
 
