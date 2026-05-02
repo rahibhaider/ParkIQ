@@ -1,73 +1,56 @@
-<<<<<<< HEAD
-# ParkIQ – Smart Parking Slot Booking System
+# ParkIQ – Smart Parking Management System
 
-A full-featured smart parking web app built with React + Vite.
+ParkIQ is a modern full-stack MERN application designed to simplify urban parking management. It allows users to discover parking locations, check real-time slot availability, and reserve parking spaces in advance. The platform also provides an admin dashboard to efficiently manage locations, users, bookings, and parking slots.
 
-## 🚀 Setup & Run
+---
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) v18 or higher
-- npm (comes with Node.js)
+## 🚀 Features
 
-### Steps
+### 👤 User Features
+- Secure user registration and login with JWT authentication
+- Browse available parking locations
+- View real-time parking slot availability
+- Reserve parking spaces instantly
+- Unique booking ID generation
+- Personal dashboard to manage bookings
+- Booking history and status tracking
+
+### 🛠️ Admin Features
+- Admin authentication and secure access
+- Dashboard with overall parking statistics
+- Add, update, and remove parking locations
+- Manage parking slots and availability
+- View and manage all bookings
+- Manage registered users
+
+---
+
+## 🏗️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Authentication
+- JSON Web Token (JWT)
+
+---
+
+## 📂 Project Structure
 
 ```bash
-# 1. Open this folder in VS Code terminal (Ctrl + `)
-
-# 2. Install frontend dependencies
-cd frontend
-npm install
-
-# 3. Start the dev server
-npm run dev
-
-# 4. Open your browser at:
-#    http://localhost:5173
-```
-
-You can also start the frontend from the project root:
-
-```bash
-npm run dev
-```
-
-To start the backend API from the project root:
-
-```bash
-npm run api
-```
-
-## 🔑 Demo Credentials
-
-| Role  | Email              | Password   |
-|-------|--------------------|------------|
-| Admin | admin@park.io      | admin123   |
-| User  | rahib@mail.com     | pass123    |
-
-## 📋 Features
-
-- **User** – Browse locations, view real-time slot grid, book a slot, get booking ID, dashboard to manage bookings
-- **Admin** – Overview stats, add locations, manage all bookings, view users
-
-## 🗂 Project Structure
-
-```
-smart-parking/
-├── index.html          # HTML entry point
-├── vite.config.js      # Vite config
+ParkIQ/
+├── frontend/          # React Frontend
+├── backend/           # Node.js + Express Backend
+├── README.md
 ├── package.json
-└── src/
-    ├── main.jsx        # React DOM render
-    └── App.jsx         # All components (single file)
-```
-
-## 🛠 Tech Stack
-
-- React 18
-- Vite 5
-- Inline CSS (no external UI library needed)
-- Google Fonts (Syne, DM Sans, DM Mono)
-=======
-# ParkIQ
-ParkIQ is a full-stack MERN smart parking app where users can browse parking locations, check real-time slot availability, and reserve spots in advance. It features JWT authentication, unique booking ID generation, a personal dashboard, and a dedicated admin panel to manage locations, slots, users, and bookings seamlessly.
->>>>>>> b56ef48222e46b98c0aaddbafa5a850f68f1e4cb
