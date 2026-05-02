@@ -50,9 +50,9 @@ ParkIQ is a modern full-stack MERN application designed to simplify urban parkin
 
 ## 📂 Project Structure
 
-```bash
+```
 ParkIQ/
-├── frontend/          # React Frontend
+├── frontend/          # React + vite Frontend
 ├── backend/           # Node.js + Express Backend
 ├── README.md
 ├── package.json
